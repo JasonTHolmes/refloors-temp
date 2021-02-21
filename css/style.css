@@ -121,3 +121,50 @@ a {
     font-weight: 200;
     color: white;
 }
+
+
+/* ---------- */
+/* HEADER > BUTTONS */
+/* ---------- */
+
+.order-now-button-container{
+    display: inline;
+}
+
+#order-now-button {
+    border: solid 1px white;
+    padding: 20px;
+    margin-top: 90px;
+    font-size: 15px;
+    color: white;
+    background-color: transparent;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+.arrow-buttons-container {
+    margin-left: 950px;
+    display: inline;
+}
+
+.arrow-buttons {    
+    border: solid 1px white;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 190px;
+    font-size: 25px;
+    color: white;
+    background-color: transparent;
+    border-radius: 60px;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    /* text-align: center; */
+    height: 60px;
+    width: 60px;
+    /* float: right; */
+}
